@@ -7,6 +7,7 @@ Inventory Management System
 
 ### These are two separate files
 
+
 This is the complete Inventory Management Setup. Here first of all it takes number of total items the person wants to buy, accordingly the loop will run that much time
 We get id numbers of every products from the barcode scanner.
 
