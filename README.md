@@ -2,8 +2,8 @@
 Inventory Management System
 
 
-**'record.json'  is the file with the previous amount of goods**
-**'records.json'  is the file with the updated amount of goods after shooping**
+# 'record.json'  is the file with the previous amount of goods
+# 'records.json'  is the file with the updated amount of goods after shooping
 
 This is the complete Inventory Management Setup. Here first of all it takes number of total items the person wants to buy, accordingly the loop will run that much time
 We get id numbers of every products from the barcode scanner.
