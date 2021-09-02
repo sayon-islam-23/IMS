@@ -15,4 +15,8 @@ Then the user put how many items of that product he/she wants to buy.
 
 If the requirement is greater than the amount of the current product amount, then it will return a message"out of stock", and assume that value as '0'. 
 
+You will get autonatically flat 20% discount if you shop above 2000
+
+You will get autonatically flat 40% discount if you shop above 5000
+
 At the end it gives the total amount of the bill. with the current stock of goods available at the shop
