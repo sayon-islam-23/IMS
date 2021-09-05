@@ -21,4 +21,11 @@ You will get autonatically flat 40% discount if you shop above 5000
 
 At the end it gives the total amount of the bill. with the current stock of goods available at the shop
 
+
+![image](https://user-images.githubusercontent.com/68483305/132127875-f6c2568a-2110-4814-8a60-1b0a76a03930.png)
+
+This is the initial storage in the record.json file
+
 ![image](https://user-images.githubusercontent.com/68483305/132127708-56b0e63d-04d4-4ab7-bcc1-c18786d93812.png)
+
+This is the billing system thst I've coded.
