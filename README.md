@@ -3,7 +3,7 @@ Inventory Management System
 
 
 ## 'record.json'  is the file with the previous amount of goods
-## 'records.json'  is the file with the updated amount of goods after shopping 
+## 'sales.json'  is the file with the updated amount of goods after shopping 
 
 
 
