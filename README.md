@@ -21,3 +21,4 @@ You will get autonatically flat 40% discount if you shop above 5000
 
 At the end it gives the total amount of the bill. with the current stock of goods available at the shop
 
+![image](https://user-images.githubusercontent.com/68483305/132127708-56b0e63d-04d4-4ab7-bcc1-c18786d93812.png)
