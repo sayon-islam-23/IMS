@@ -22,4 +22,4 @@ You will get autonatically flat 40% discount if you shop above 5000
 At the end it gives the total amount of the bill. with the current stock of goods available at the shop
 
 
-<video width="320" height="240" source src="https://github.com/sayon-islam-23/IMS/blob/main/IMS.mp4" type="video/mp4" autoplay></video>
+<video width="320" height="240" src="https://github.com/sayon-islam-23/IMS/blob/main/IMS.mp4" type="video/mp4" autoplay></video>
